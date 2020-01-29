@@ -3,8 +3,6 @@ A darkish GTK theme with purple accents. This theme uses the Arc theme as a base
 
 ![Image](https://raw.githubusercontent.com/digiberk/plum/master/screenshots/widget-factory.png)
 
-![Image](https://raw.githubusercontent.com/digiberk/plum/master/screenshots/demo.png)
-
 # Installation
 Simply clone this repo into `~/.themes` and pick the GTK theme from GNOME Tweaks or whatever your DE uses. Alternatively you can put it in `/usr/share/themes` but you don't get Flatpak support then.
 
